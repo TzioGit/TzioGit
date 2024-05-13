@@ -2,9 +2,8 @@
 - 👀 I’m interested in Web Developing/Designing
 - 🌱 I’m currently learning HTML / CSS / JavaScript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @tziogr on Telegram
+- 📫 Reach me on Telegram: @tziogr
 - 😄 Pronouns: Tzio
-- ⚡ Fun fact: ...
 
 <!---
 TzioGit/TzioGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
