@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning HTML / CSS / JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on Telegram: @tziogr
-- 😄 Pronouns: Tzio
 
 <!---
 TzioGit/TzioGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
